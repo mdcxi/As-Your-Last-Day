@@ -9,7 +9,6 @@ Remembering that ammos for each gun is 𝗹𝗶𝗺𝗶𝘁𝗲𝗱, so you need
 
 
 𝗚𝗮𝗺𝗲 𝗟𝗼𝗴𝗼 𝗜𝗰𝗼𝗻: 
-
 ![Black   White Minimalist Business Logo](https://user-images.githubusercontent.com/97457787/208257090-5076dece-e593-4c25-98c4-6f8c9b775773.png)
 
 
