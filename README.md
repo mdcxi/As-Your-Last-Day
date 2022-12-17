@@ -5,7 +5,7 @@
 
 This is a simple FPS game. Taking your gun, then shooting the zombies which are looking straight at you.
 
-Remembering that ammos for each gun is 𝗹𝗶𝗺𝗶𝘁𝗲𝗱, so you need to find the ammo pickups somewhere before enemies attack you till death. Make yourself survive and complete the game mission!
+Remembering that ammos for each gun are 𝗹𝗶𝗺𝗶𝘁𝗲𝗱, so you need to find the ammo pickups somewhere before enemies attack you till death. Make yourself survive and complete the game mission!
 
 
 𝗚𝗮𝗺𝗲 𝗟𝗼𝗴𝗼 𝗜𝗰𝗼𝗻: 
