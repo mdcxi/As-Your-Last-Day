@@ -2,6 +2,7 @@ using System;
 using As_Your_Last_Day.Weapon;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityStandardAssets.Characters.FirstPerson;
 
 namespace As_Your_Last_Day.UI
 {
@@ -9,7 +10,8 @@ namespace As_Your_Last_Day.UI
     {
         [SerializeField] int sceneIndex = 0;
         [SerializeField] GameObject buttonCanvas;
-        [SerializeField] GameObject menuButton;    
+        [SerializeField] GameObject menuButton;
+        public GameObject player;
     
         private void Start () 
         {
@@ -23,16 +25,16 @@ namespace As_Your_Last_Day.UI
             SceneManager.LoadScene(sceneIndex);
             UnlockState();
         }
-    
-        public void BackToHome ()
+
+        public void Home()
         {
-            Debug.Log("Back to home");
-            SceneManager.LoadScene(0);
-    
+            BackToHome();
+        }
+        private void BackToHome()
+        {
+            player.GetComponent<RigidbodyFirstPersonController>().enabled = false;
             Time.timeScale = 1;
-            Cursor.lockState = CursorLockMode.Locked;
-            Cursor.visible = true;
-            enabled = false;
+            SceneManager.LoadScene(0);
         }
     
         public void ExitGame ()
@@ -54,7 +56,7 @@ namespace As_Your_Last_Day.UI
         public void BackToGamePlay ()
         {
             UnlockState();
-     
+            
             // buttonCanvas.enabled = false;
             buttonCanvas.gameObject.SetActive(false);
             menuButton.SetActive(true);
@@ -63,6 +65,7 @@ namespace As_Your_Last_Day.UI
         public void UnlockState ()
         {
             Time.timeScale = 1;
+            player.GetComponent<RigidbodyFirstPersonController>().enabled = true;
             FindObjectOfType<WeaponSwitcher>().enabled = true;
             FindObjectOfType<Weapons>().enabled = true;
             Cursor.lockState = CursorLockMode.Confined;
