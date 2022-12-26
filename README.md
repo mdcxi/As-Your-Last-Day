@@ -19,17 +19,21 @@ Remembering that ammos for each gun are 𝗹𝗶𝗺𝗶𝘁𝗲𝗱, so you nee
 
 <img width="905" alt="Screen Shot 2022-12-18 at 01 49 23" src="https://user-images.githubusercontent.com/97457787/208257109-b05c36be-ed1a-4516-9651-1fbc147aa44a.png">
 <img width="906" alt="Screen Shot 2022-12-18 at 01 49 31" src="https://user-images.githubusercontent.com/97457787/208257118-6335e0c1-f517-4d4d-87ba-435072fb8aee.png">
-<img width="910" alt="Screen Shot 2022-12-18 at 01 49 43" src="https://user-images.githubusercontent.com/97457787/208257122-9028b4f1-6a6e-470e-9988-559ec0bac84f.png">
+<img width="910" alt="Screen Shot 2022-12-26 at 21 44 42" src="https://user-images.githubusercontent.com/97457787/209566373-649417fd-f74a-4ea1-b2aa-227b4f61c284.png">
+
 
 
 ++𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐆𝐚𝐦𝐞 𝐒𝐜𝐞𝐧𝐞:
 
 <img width="1603" alt="Ls6xYf" src="https://user-images.githubusercontent.com/97457787/208257212-a2dc5370-5ac4-45a6-934b-c101afd6505c.png">
+<img width="909" alt="Screen Shot 2022-12-26 at 19 53 05" src="https://user-images.githubusercontent.com/97457787/209566388-5e35b813-952a-4da5-a93b-5e56d1eb4bf1.png">
+<img width="905" alt="Screen Shot 2022-12-26 at 19 53 19" src="https://user-images.githubusercontent.com/97457787/209566400-6516b8d9-8114-4272-8b7d-bfb75df3f457.png">
 
 
 ++𝐁𝐚𝐭𝐭𝐥𝐞 𝐒𝐜𝐞𝐧𝐞: 
 
 ![Pq7W0K](https://user-images.githubusercontent.com/97457787/208257218-f00cff3b-2499-499a-9c0a-8bce902eb1f5.jpeg)
+<img width="909" alt="Screen Shot 2022-12-26 at 21 46 46" src="https://user-images.githubusercontent.com/97457787/209566411-5a942d3a-133a-4999-b79f-3798a674e558.png">
 
 
 ++𝐌𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐜𝐞𝐧𝐞:
