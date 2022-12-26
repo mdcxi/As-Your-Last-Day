@@ -77,8 +77,32 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2108719474272860115, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3024702690906609554, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_VersionIndex
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001780243098315571, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_VersionIndex
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4984254990129803593, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: ammoType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4984254990129803593, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: pickupAudio
+      value: 
+      objectReference: {fileID: 5590139325822694788}
+    - target: {fileID: 5744367381691729665, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5893203437288864672, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
@@ -87,15 +111,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 114.475914
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 70.584
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 163.2933
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -103,15 +127,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7736934161121326933, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -129,7 +153,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rockets Pickup
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8863749892984596288, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
+      propertyPath: m_VersionIndex
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: -8503320673650127587, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
 --- !u!4 &3401647494612619212 stripped
 Transform:
@@ -141,7 +170,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8862578712922778200, guid: 4670c703f8946a44ca625bd49e5e107a, type: 3}
   m_PrefabInstance: {fileID: 4929762633474848921}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &1830257812296540089
+--- !u!82 &5590139325822694788
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
